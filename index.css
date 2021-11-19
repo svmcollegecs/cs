@@ -1,0 +1,65 @@
+
+
+ body{
+
+    background-color: rgb(249, 246, 250);
+ }
+ li:hover{
+   background-color: rgb(226, 49, 217);
+
+   
+    }
+    li{
+
+padding-right: 30px;
+
+    }
+    .p1{
+
+height: 20vh;
+
+    }
+    .m2{
+background-color: rgb(23, 158, 23);
+
+    }
+    .m1{
+
+      background-color: crimson;
+     
+    }
+    .responsive {
+        width: 100%;
+        height: auto;
+      }
+      .main{
+
+background-color: rgb(248, 252, 252);
+
+padding-bottom: 5vh;
+
+      }
+      h1{
+
+        color: rgb(0, 7, 1);
+        padding-top: 20px;
+      }
+    h2{
+        color: rgb(9, 13, 14);
+    }
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+    }
+ @media only screen and (max-width: 700px) {
+
+    
+    li{
+       padding-right: 8px;
+       padding-top: 15px;
+    }
+  
+}
+
