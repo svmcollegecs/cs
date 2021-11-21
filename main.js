@@ -1,0 +1,1 @@
+document.getElementById("pg").addEventListener("click",function(){alert("PG information or not add in webpage, for more information cilck contact page")});
